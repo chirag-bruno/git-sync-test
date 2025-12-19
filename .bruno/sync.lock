@@ -15,5 +15,12 @@
     },
     "timestamp": "2025-12-19T22:25:49.583Z",
     "checksum": "sha256:46daf0357a0f05804c43aaa90fc5a45e73f6aac036df69cfcbcea1ef9a1fe553"
+  },
+  {
+    "operation": "remove_remote",
+    "collectionId": "collections/test-collection2",
+    "remoteName": "origin",
+    "timestamp": "2025-12-19T22:28:07.468Z",
+    "checksum": "sha256:e7b3b31a77c51c8c689bbcacd0091cb44bf3faa4ee41d0a3e47962be37366aa3"
   }
 ]
