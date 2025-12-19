@@ -5,5 +5,15 @@
     "remoteName": "origin",
     "timestamp": "2025-12-19T22:24:52.008Z",
     "checksum": "sha256:b4782ea100068143cd3b2f4bc3576a3459552ec60553b3714007fdc01dc71ad5"
+  },
+  {
+    "operation": "add_remote",
+    "collectionId": "collections/test-collection1",
+    "remote": {
+      "name": "origin",
+      "url": "git@github.com:chirag-bruno/test-collection1.git"
+    },
+    "timestamp": "2025-12-19T22:25:49.583Z",
+    "checksum": "sha256:46daf0357a0f05804c43aaa90fc5a45e73f6aac036df69cfcbcea1ef9a1fe553"
   }
 ]
