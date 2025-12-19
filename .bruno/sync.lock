@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "operation": "remove_remote",
+    "collectionId": "collections/test-collection1",
+    "remoteName": "origin",
+    "timestamp": "2025-12-19T22:24:52.008Z",
+    "checksum": "sha256:b4782ea100068143cd3b2f4bc3576a3459552ec60553b3714007fdc01dc71ad5"
+  }
+]

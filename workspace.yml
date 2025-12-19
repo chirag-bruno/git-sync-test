@@ -4,6 +4,10 @@ info:
   type: workspace
 
 collections:
+  - name: test-collection1
+    path: collections/test-collection1
+  - name: test-collection2
+    path: collections/test-collection2
 
 specs:
 
