@@ -11,6 +11,9 @@ collections:
         url: git@github.com:chirag-bruno/test-collection1.git
   - name: test-collection2
     path: collections/test-collection2
+    remotes:
+      - name: origin
+        url: git@github.com:chirag-bruno/test-collection2.git
 
 specs:
 
