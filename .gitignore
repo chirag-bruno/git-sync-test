@@ -1,0 +1,7 @@
+# Collections have their own git repos
+collections/
+# But track workspace metadata
+!workspace.yml
+# Track sync.lock in .bruno directory
+.bruno/*
+!.bruno/sync.lock
